@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "**/c_cpp_properties.json": true
+    }
+}
